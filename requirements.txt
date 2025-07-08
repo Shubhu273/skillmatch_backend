@@ -1,0 +1,5 @@
+Flask
+Flask-Cors
+pdfminer.six
+python-docx
+youtube-search-python
